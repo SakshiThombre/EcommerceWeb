@@ -2,6 +2,7 @@
 <br>
 <p>A modern, responsive Product Detail Page (PDP) built as a frontend practice project. This repository demonstrates the ability to create interactive shopping interfaces using Bootstrap 3, jQuery, and JavaScript.</p>
 <br>
+<b>Live : </b>https://sakshithombre.github.io/EcommerceWeb/ <br>
 <b>🎯 Practice Objectives</b>
 <ul>
   <li>E-commerce Layouts: Structuring product information, size selectors, and featured product grids.</li>
